@@ -62,7 +62,6 @@ Actualmente estoy desarrollando un itinerario práctico de formación enfocado e
 
 Aplicación web de comercio electrónico desarrollada con tecnologías JavaScript, Node.js, Express y MongoDB.
 
-🔗 [Ver proyecto](https://computech.vercel.app/)
 
 ### ☁️ DevOps Learning Lab — En desarrollo
 
